@@ -1,0 +1,7 @@
+*.cbp
+*.layout
+*.depend
+bin/
+obj/
+addresses.txt
+users.txt
